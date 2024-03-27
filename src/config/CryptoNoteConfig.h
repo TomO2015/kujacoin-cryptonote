@@ -421,6 +421,7 @@ namespace CryptoNote
 // i subtratcted 1 from each of the above so it doesn't match trtl I also change b to a and c to b in the first two
 
     const char *const SEED_NODES[] = {
-        "172.233.120.125:16553" // linode ports 16553
+        "172.233.120.125:16553",
+"10.0.2.15:16553" // linode ports 16553
     };
 } // namespace CryptoNote
