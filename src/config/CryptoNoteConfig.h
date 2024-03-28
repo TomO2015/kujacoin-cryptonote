@@ -364,9 +364,9 @@ namespace CryptoNote
     const uint64_t BLOCKS_SYNCHRONIZING_DEFAULT_COUNT = 100; // by default, blocks count in blocks downloading
     const size_t COMMAND_RPC_GET_BLOCKS_FAST_MAX_COUNT = 1'000;
 
-    const int P2P_DEFAULT_PORT = 16'553;
+    const int P2P_DEFAULT_PORT = 16'552;
 
-    const int RPC_DEFAULT_PORT = 16'552;
+    const int RPC_DEFAULT_PORT = 16'553;
 
     const int SERVICE_DEFAULT_PORT = 8'070;
 
